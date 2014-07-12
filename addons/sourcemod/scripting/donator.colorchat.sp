@@ -1,13 +1,3 @@
-/*
-* 	Change Log:
-* 		...
-* 		v0.3 - as released
-* 		v0.3.1 - added plugin ver def, chatcolor def
-*/
-
-
-
-
 #include <sourcemod>
 #include <colors>
 #include <clientprefs>
