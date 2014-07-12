@@ -1,5 +1,5 @@
 #include <sourcemod>
-#include <colors>
+#include <morecolors>
 #include <clientprefs>
 #include <loghelper>
 #include <donator>
