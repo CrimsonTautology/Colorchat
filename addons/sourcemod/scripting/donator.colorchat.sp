@@ -9,7 +9,7 @@
 //Uncomment for yellow (majority of the time) in TF2
 #define TF2
 
-#define PLUGIN_VERSION "0.3.1"
+#define PLUGIN_VERSION "0.4.0"
 
 // These define the text players see in the donator menu
 #define MENUTEXT_DONATOR_CHAT_COLOR "Chat Color"
